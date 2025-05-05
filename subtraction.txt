@@ -1,0 +1,3 @@
+i am doing subraction for the two variables using echo command
+echo "i am passing two arguments while running" `expr $1 - $2
+
